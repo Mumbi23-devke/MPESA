@@ -1,0 +1,13 @@
+pip install django_daraja
+create a pay file on templates folder
+add django _daraja to installed apps in settings
+on your views create a makepayments function
+run migrations on your app and django_daraja
+migrate your fields
+
+1.git init
+2.git config user.email "gloriawaweru5@gmail.com"
+3.git add .
+4.git commit -m "first commit"
+5. replace with yours - git remote add origin https://github.com/Mumbi23-devke/python_programming.git
+6.git push -u origin master
